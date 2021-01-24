@@ -1,3 +1,3 @@
 ## Website
 
-Welcome to my [website] (https://avaitt.github.io/websitev2/index.html)
+Welcome to my [website](https://avaitt.github.io/websitev2/index.html)
