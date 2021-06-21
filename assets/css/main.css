@@ -308,10 +308,10 @@ body, input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #f9b571;
+		color: #36bfff;
 	}
 blockquote {
-    border-left-color: #f9b571
+    border-left-color: #36bfff
 }
 
 	code {
@@ -3246,7 +3246,7 @@ blockquote {
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: #f0a06e;
+            background-color: #00a0eb;
             background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("http://blog.hostbaby.com/wp-content/uploads/2014/03/PaintSwatches_1920x1234.jpg");
             background-size: auto, auto, 100% auto;
             background-position: center, center, top center;
@@ -3271,7 +3271,7 @@ blockquote {
         -webkit-transition-delay: 0.22s;
         -ms-transition-delay: 0.22s;
         transition-delay: 0.22s;
-        background: #f9b571;
+        background: #36bfff;
         content: '';
         display: block;
         height: 100%;
